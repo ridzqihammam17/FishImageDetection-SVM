@@ -1,0 +1,7 @@
+Tutorial menjalankan mini project ini yaitu:
+1. Download file svm.model yang ada dalam link dibawah ini (File 13 mb, file dipisah karena elearning hanya menyanggupi hingga 8 MB saja)
+2. Setelah didownload masukkan svm.model ke dalam folder directory "data/models/svm.model"
+3. Kemudian setelah didownload, jalankan "start.py" untuk mengetest mini projectnya
+
+link : 
+Terima kasih
